@@ -77,29 +77,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12492}
+      Script: {instanceID: 12448}
     - Class: 114
-      Script: {instanceID: 12504}
+      Script: {instanceID: 12460}
     - Class: 114
-      Script: {instanceID: 13282}
+      Script: {instanceID: 13238}
     - Class: 114
-      Script: {instanceID: 13468}
+      Script: {instanceID: 13424}
     - Class: 114
-      Script: {instanceID: 13712}
+      Script: {instanceID: 13668}
     - Class: 114
-      Script: {instanceID: 13724}
+      Script: {instanceID: 13680}
     - Class: 114
-      Script: {instanceID: 13922}
+      Script: {instanceID: 13878}
     - Class: 114
-      Script: {instanceID: 14128}
+      Script: {instanceID: 14084}
     - Class: 114
-      Script: {instanceID: 14264}
+      Script: {instanceID: 14220}
     - Class: 114
-      Script: {instanceID: 14568}
+      Script: {instanceID: 14524}
     - Class: 114
-      Script: {instanceID: 14664}
+      Script: {instanceID: 14620}
     - Class: 114
-      Script: {instanceID: 14684}
+      Script: {instanceID: 14640}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -2090,4 +2090,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Claudia/Desktop/temp/v1.apk
+  playerPath: C:/Users/Claudia/Desktop/temp/v1-1.apk
