@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 76
+  controlID: 33
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 108
+  controlID: 34
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 109
+  controlID: 35
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/HDR night
+    - Assets/Models/scenario/ferri wheel
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets/HDR night
+  - Assets/Models/scenario/ferri wheel
   m_LastFoldersGridSize: 65
   m_LastProjectPath: C:\Users\lseba\Documents\GitHub\Repo-VR\CarnivalVR
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee450000
-    m_LastClickedID: 17902
-    m_ExpandedIDs: 00000000944500009645000000ca9a3b
+    scrollPos: {x: 0, y: 123}
+    m_SelectedIDs: f0650000
+    m_LastClickedID: 26096
+    m_ExpandedIDs: 0000000044440000464400006c440000ca440000de440000ec65000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009445000096450000
+    m_ExpandedIDs: 000000004444000046440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,24 +501,24 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 7adfffff9c42000002430000
+      scrollPos: {x: 0, y: 925}
+      m_SelectedIDs: ced8feff
+      m_LastClickedID: -75570
+      m_ExpandedIDs: d235ffffb6a8ffffcaa9ffff7eaafffffcf1ffff4af5ffff58f5ffffa0f9ffff64fbffff6e3e0000123f0000783f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: toldo (1)
+        m_OriginalName: toldo (1)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -3588
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.180719, y: 0.19132543, z: -2.7802386}
+    m_Target: {x: -4.864792, y: 2.6081924, z: -0.60001755}
     speed: 2
-    m_Value: {x: 2.180719, y: 0.19132543, z: -2.7802386}
+    m_Value: {x: -4.864792, y: 2.6081924, z: -0.60001755}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.13983425, y: 0.1479359, z: -0.021133713, w: 0.97883356}
+    m_Target: {x: -0.1008565, y: -0.27070037, z: 0.028515011, w: -0.9569588}
     speed: 2
-    m_Value: {x: 0.1401355, y: 0.13323729, z: -0.019033898, w: 0.98094225}
+    m_Value: {x: -0.10076879, y: -0.27356538, z: 0.028816963, w: -0.95612615}
   m_Size:
-    m_Target: 2.8958073
+    m_Target: 18.553125
     speed: 2
-    m_Value: 3.1958072
+    m_Value: 17.754187
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -692,10 +692,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -514.5
-    m_HBaseRangeMax: 514.5
-    m_VBaseRangeMin: -289.5
-    m_VBaseRangeMax: 289.5
+    m_HBaseRangeMin: -533.5
+    m_HBaseRangeMax: 533.5
+    m_VBaseRangeMin: -300
+    m_VBaseRangeMax: 300
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -712,11 +712,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1167
-      height: 579
+      height: 600
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 583.5, y: 289.5}
+    m_Translation: {x: 583.5, y: 300}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -724,9 +724,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -583.5
-      y: -289.5
+      y: -300
       width: 1167
-      height: 579
+      height: 600
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1167, y: 600}
