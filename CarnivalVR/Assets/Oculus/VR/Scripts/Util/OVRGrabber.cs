@@ -17,6 +17,8 @@ permissions and limitations under the License.
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
 /// <summary>
 /// Allows grabbing and throwing of objects with the OVRGrabbable component on them.
 /// </summary>
@@ -26,6 +28,7 @@ public class OVRGrabber : MonoBehaviour
     // Grip trigger thresholds for picking up objects, with some hysteresis.
     public float grabBegin = 0.55f;
     public float grabEnd = 0.35f;
+    
 
     // Demonstrates parenting the held object to the hand's transform when grabbed.
     // When false, the grabbed object is moved every FixedUpdate using MovePosition.
@@ -77,6 +80,7 @@ public class OVRGrabber : MonoBehaviour
 	protected Dictionary<OVRGrabbable, int> m_grabCandidates = new Dictionary<OVRGrabbable, int>();
 	protected bool m_operatingWithoutOVRCameraRig = true;
 
+
     /// <summary>
     /// The currently grabbed object.
     /// </summary>
@@ -124,6 +128,7 @@ public class OVRGrabber : MonoBehaviour
         }
 		// We're going to setup the player collision to ignore the hand collision.
 		SetPlayerIgnoreCollision(gameObject, true);
+
     }
 
 	// Using Update instead of FixedUpdate. Doing this in FixedUpdate causes visible judder even with 
