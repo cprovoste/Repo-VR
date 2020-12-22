@@ -77,29 +77,29 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12510}
+      Script: {instanceID: 12518}
     - Class: 114
-      Script: {instanceID: 12522}
+      Script: {instanceID: 12530}
     - Class: 114
-      Script: {instanceID: 13300}
+      Script: {instanceID: 13308}
     - Class: 114
-      Script: {instanceID: 13486}
+      Script: {instanceID: 13494}
     - Class: 114
-      Script: {instanceID: 13730}
+      Script: {instanceID: 13738}
     - Class: 114
-      Script: {instanceID: 13742}
+      Script: {instanceID: 13750}
     - Class: 114
-      Script: {instanceID: 13940}
+      Script: {instanceID: 13948}
     - Class: 114
-      Script: {instanceID: 14146}
+      Script: {instanceID: 14154}
     - Class: 114
-      Script: {instanceID: 14282}
+      Script: {instanceID: 14290}
     - Class: 114
-      Script: {instanceID: 14588}
+      Script: {instanceID: 14594}
     - Class: 114
-      Script: {instanceID: 14684}
+      Script: {instanceID: 14690}
     - Class: 114
-      Script: {instanceID: 14704}
+      Script: {instanceID: 14710}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 135
@@ -2090,4 +2090,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/v1.apk
+  playerPath: C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/v1-2.apk
