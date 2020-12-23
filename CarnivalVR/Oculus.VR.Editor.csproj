@@ -289,6 +289,9 @@
     <Reference Include="nunit.framework">
       <HintPath>C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/Repo-VR/CarnivalVR/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="ICSharpCode.NRefactory">
+      <HintPath>C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/Repo-VR/CarnivalVR/Library/PackageCache/com.unity.render-pipelines.core@7.5.2/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.16f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
     </Reference>
@@ -643,11 +646,11 @@
     <Reference Include="Boo.Lang">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/Repo-VR/CarnivalVR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/Repo-VR/CarnivalVR/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/Repo-VR/CarnivalVR/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>C:/Users/Claudia/Desktop/UTAL/IDVRV/2020-2/ARVR/VR/Repo-VR/CarnivalVR/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
